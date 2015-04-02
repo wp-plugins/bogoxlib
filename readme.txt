@@ -4,7 +4,7 @@ Donate link: http://www.markusechterhoff.com/donation/
 Tags: bogo
 Requires at least: 4.0
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -21,6 +21,10 @@ It also contains an email localization implementation that can localize emails d
 For example usages see [Bogo BBPress](https://wordpress.org/plugins/bogo-bbpress/) or [Bogo BuddyPress](https://wordpress.org/plugins/bogo-buddypress/).
 
 == Changelog ==
+
+= 1.1 =
+
+* now uses the new `bogo_language_switcher_links` filter
 
 = 1.0 =
 

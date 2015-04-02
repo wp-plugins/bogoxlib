@@ -5,7 +5,7 @@ Description: Library of Bogo extensions for Bogo based translation plugins
 Plugin URI: http://wordpress.org/extend/plugins/bogoxlib/
 Author: Markus Echterhoff
 Author URI: http://www.markusechterhoff.com
-Version: 1.0
+Version: 1.1
 License: GPLv3 or later
 */
 
